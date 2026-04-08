@@ -1,2 +1,2 @@
-# Model-Reduction_TMech
+# Paper_Model-Reduction
  Supplementary  materials that may be required
